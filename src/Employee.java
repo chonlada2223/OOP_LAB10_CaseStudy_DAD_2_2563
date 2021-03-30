@@ -1,5 +1,5 @@
 public class Employee {
-    //Atrr
+    //Attribute
     private String emp_id;
     private String name;
     private String position;
